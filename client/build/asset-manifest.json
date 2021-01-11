@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89ac01ae.chunk.css",
+    "main.js": "/static/js/main.64b73914.chunk.js",
+    "main.js.map": "/static/js/main.64b73914.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c012fedc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c012fedc.js.map",
+    "static/js/2.0d31fd31.chunk.js": "/static/js/2.0d31fd31.chunk.js",
+    "static/js/2.0d31fd31.chunk.js.map": "/static/js/2.0d31fd31.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.89ac01ae.chunk.css.map": "/static/css/main.89ac01ae.chunk.css.map",
+    "static/js/2.0d31fd31.chunk.js.LICENSE.txt": "/static/js/2.0d31fd31.chunk.js.LICENSE.txt",
+    "static/media/DarkEarthlingsLogo.a23e0f77.png": "/static/media/DarkEarthlingsLogo.a23e0f77.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c012fedc.js",
+    "static/js/2.0d31fd31.chunk.js",
+    "static/css/main.89ac01ae.chunk.css",
+    "static/js/main.64b73914.chunk.js"
+  ]
+}
