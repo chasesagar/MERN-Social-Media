@@ -1,6 +1,5 @@
 
-# MERN Social-Media Application
-MERN (mongoDB, express, react, nodejs) based social media application which allow user to **add, delete, edit posts** in real time with easy to understand UI. See [demo](#demo)
+# MERN Social-Media ApplicationMERN (MongoDB, express, react, nodejs) based social media application that allows the user to add, delete, edit posts in real-time with easy to understand UI. See [Demo](#demo)
 
 ## About
 
@@ -90,8 +89,8 @@ npm start
 
 ## Quick Start
 
-- [Download from Github](https://github.com/chasesagar/Voting-Application/archive/master.zip).
-- Clone the repo: `git clone https://github.com/chasesagar/Voting-Application.git`.
+- [Download from Github](https://github.com/chasesagar/MERN-Social-Media/archive/master.zip).
+- Clone the repo: `git clone https://github.com/chasesagar/MERN-Social-Media.git`.
 
 
 
@@ -129,7 +128,7 @@ See also the list of contributors who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/chasesagar/voting-application/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/chasesagar/MERN-Social-Media/blob/master/LICENSE) file for details
 
 ## Acknowledgements
 
