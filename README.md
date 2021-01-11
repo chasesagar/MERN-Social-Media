@@ -1,5 +1,6 @@
 
-# MERN Social-Media ApplicationMERN (MongoDB, express, react, nodejs) based social media application that allows the user to add, delete, edit posts in real-time with easy to understand UI. See [Demo](#demo)
+# MERN Social-Media Application
+MERN (MongoDB, express, react, nodejs) based social media application that allows the user to **add, delete, edit posts** in real-time with easy to understand UI. See [Demo](#demo)
 
 ## About
 
