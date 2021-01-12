@@ -54,7 +54,7 @@ npm install
 npm start
 ````
 
-* The server is now running at [localhost:3000](localhost:5000)
+* The server is now running at [localhost:5000](localhost:5000)
 
 <br />
 <br />
